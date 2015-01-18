@@ -1,0 +1,20 @@
+{
+  "name": "observify-keypath",
+  "description": "get/set observify values using dot-notation keypaths",
+  "version": "1.0.0",
+  "repository": {
+    "url": "git://github.com/sethvincent/observify-keypath.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "amp-is-number": "^1.0.1",
+    "amp-is-string": "^1.0.1"
+  },
+  "devDependencies": {
+    "observify": "^1.1.0",
+    "tape": "^3.2.0"
+  }
+}
